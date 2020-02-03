@@ -3,11 +3,18 @@
     color: #fff;
 }
 
+.title-image{
+    width: 60%; 
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
 body{
     font-family: "Montserrat";
 }
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 
@@ -40,10 +47,7 @@ body{
     margin: 5% 3% 5% 0;
 }
 
-.title-image{
-    width: 60%; 
-    transform: rotate(25deg);
-}
+
 
 .i-color{
     color: #ef8172;
@@ -51,8 +55,11 @@ body{
 }
 
 #features{
-    padding: 10%;
+    padding: 7% 15%;
     text-align: center;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 #testimonials{
@@ -83,6 +90,16 @@ body{
 
 .carousel-item{
     padding: 7% 15%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+    
 }
 
 /* Heading */
