@@ -1,7 +1,7 @@
 # Tindog
 Tindog website
 
-index.html is the landing page for website 
+https://shreyashvijaykar.github.io/Tindog/
 
 Feel free to checkout the site and suggestions are appreciated.
 Thank you...
