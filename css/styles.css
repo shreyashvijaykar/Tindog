@@ -102,6 +102,33 @@ body{
     
 }
 
+/* Footer */
+
+#cta{
+    text-align:center;
+    background-color: #ff4c68;
+    font-family: "Montserrat";
+    padding: 5% 25%;
+    color: #fff;
+    font-size:36px;
+
+}
+
+
+.fo{
+    font-size: 3rem;
+}
+
+
+#footer{
+    text-align: center;
+    padding: 5%;
+}
+
+.fab{
+    padding: 15px;
+}
+
 /* Heading */
 
 
